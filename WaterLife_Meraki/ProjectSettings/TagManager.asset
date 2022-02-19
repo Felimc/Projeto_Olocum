@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - waypoint
+  - Tiro
+  - Terrain
+  - Limite
+  - "Area do Tubar\xE3o"
+  - "Lixo N\xE3o Met\xE1lico"
+  - "Lixo Met\xE1lico"
+  - Grupo de Tartarugas
+  - "Tubar\xE3o"
+  - "\xC1rea do Morbilus"
+  - Morbilus Waypoint
+  - Morbilus
+  - "\xC1rea de persegui\xE7\xE3o"
+  - "\xC1rea de Ataque"
+  - "\xC1rea de Ataque 2"
+  - "Bra\xE7ada"
+  - "Fuma\xE7a Negra"
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Terrain
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
